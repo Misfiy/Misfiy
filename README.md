@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning what sleep is
 - 💞️ I’m looking to collaborate on sleep
 - 🔘 I'm autistic and like sleep
-- 📫 How to reach me: You don't.
-- https://discord.gg/5TajTFApAz 
+- 📫 How to reach me: You don't (unless you do https://discord.gg/5TajTFApAz)
 
 <!---
 Misfiy/Misfiy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
