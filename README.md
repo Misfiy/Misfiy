@@ -2,6 +2,7 @@
 - 👀 I’m interested in sleep
 - 🌱 I’m currently learning what sleep is
 - 💞️ I’m looking to collaborate on sleep
+- 🔘 I'm autistic and like sleep
 - 📫 How to reach me: You don't.
 
 <!---
