@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning what sleep is
 - 💞️ I’m looking to collaborate on sleep
 - 🔘 I'm autistic and like sleep
-- 📫 How to reach me: [Twitter](https://twitter.com/sleepynameless_) or [Discord](https://discord.gg/7TNp6TUYY7)
+- 📫 How to reach me: [Twitter](https://twitter.com/sleepynameless_)
