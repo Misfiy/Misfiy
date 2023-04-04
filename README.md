@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sleepynameless_
+- 👋 Hi, I’m Nameless
 - 👀 I’m interested in sleep
 - 🌱 I’m currently learning what sleep is
 - 💞️ I’m looking to collaborate on sleep
