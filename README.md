@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on sleep
 - 🔘 I'm autistic and like sleep
 - 📫 How to reach me: Visit me in my dreams
-- 🐦 Twitter [Twitter](https://twitter.com/sleepynameless_)
+- 🐦 [Twitter](https://twitter.com/sleepynameless_)
