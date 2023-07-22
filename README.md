@@ -6,6 +6,4 @@
 - 📫 How to reach me: Visit me in my dreams
 - My [Discord](https://discord.gg/RYzahv3vf)
 
-
-
 ![Stats](https://github-readme-stats.vercel.app/api?username=misfiy&show_icons=true&theme=radical)
