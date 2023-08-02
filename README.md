@@ -4,6 +4,6 @@
 - 💞️ I’m looking to collaborate on sleep
 - 🔘 I'm autistic and like sleep
 - 📫 How to reach me: Visit me in my dreams
-- My [Discord](https://discord.gg/RYzahv3vf)
+- My [Discord](https://discord.gg/RYzahv3vfC)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=misfiy&show_icons=true&theme=radical)
