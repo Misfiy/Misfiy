@@ -7,3 +7,5 @@
 - My [Discord](https://discord.gg/RYzahv3vfC)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=misfiy&show_icons=true&theme=radical)
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J5X95ST)
